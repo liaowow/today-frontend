@@ -305,28 +305,28 @@ function renderMoodData() {
         switch(maxIndex) {
             case 0:
                 mainPageWrapper.className = "color-animation-happy"
-                emojiDisplayDiv.innerHTML = `<img class="emoji-display" src="img/emoji-happy.png">
+                emojiDisplayDiv.innerHTML = `<img class="emoji-display" src="/img/emoji-happy.png">
                 <h6 style="color: grey">(Happy)</h6>
                 <br>`
                 // colorGradientDiv.className = "color-animation-happy"
                 break;
             case 1:
                 mainPageWrapper.className = "color-animation-sad"
-                emojiDisplayDiv.innerHTML = `<img class="emoji-display" src="img/emoji-sad.png">
+                emojiDisplayDiv.innerHTML = `<img class="emoji-display" src="/img/emoji-sad.png">
                 <h6>(Sad)</h6>
                 <br>`
                 // colorGradientDiv.className = "color-animation-sad"
                 break;
             case 2:
                 mainPageWrapper.className = "color-animation-angry"
-                emojiDisplayDiv.innerHTML = `<img class="emoji-display" src="img/emoji-angry.png">
+                emojiDisplayDiv.innerHTML = `<img class="emoji-display" src="/img/emoji-angry.png">
                 <h6>(Angry)</h6>
                 <br>`
                 // colorGradientDiv.className = "color-animation-angry"
                 break;
             case 3:
                 mainPageWrapper.className = "color-animation-calm"
-                emojiDisplayDiv.innerHTML = `<img class="emoji-display" src="img/emoji-calm.png">
+                emojiDisplayDiv.innerHTML = `<img class="emoji-display" src="/img/emoji-calm.png">
                 <h6 style="color: grey">(Calm)</h6>
                 <br>`
                 // colorGradientDiv.className = "color-animation-calm"
