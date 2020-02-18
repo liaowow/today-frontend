@@ -390,7 +390,7 @@ function checkLoggedInUser() {
 renderSidebar();
 // renders weather icon
 getWeatherFetch();
-setInterval(getWeatherFetch, 300000 * 6);
+setInterval(getWeatherFetch, 300000);
 // checks if user is logged in and renders page
 checkLoggedInUser();
 // adds time to sidebar

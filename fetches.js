@@ -1,6 +1,6 @@
     /***** FETCH CONSTANTS *****/
 
-const baseURL = "http://localhost:3000";
+const baseURL = "https://mysterious-falls-82894.herokuapp.com";
 const defaultHeaders = {
     "Content-Type": "application/json",
     "Accepts": "application/json"
