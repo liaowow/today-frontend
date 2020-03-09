@@ -1,7 +1,7 @@
 # TODAY
 
 ## Introduction
-Welcome to TODAY, an intimate daily journal app. TODAY is a single-page application written in vanilla JavaScript without the aid of frameworks.
+Welcome to TODAY, an intimate daily journal app. TODAY is a single-page application written in plain JavaScript without the aid of frameworks.
 
 ## Features
 TODAY features CRUD (Create, Read, Update, Delete) functionality for both a user and their journal entries.
